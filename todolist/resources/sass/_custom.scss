@@ -1,0 +1,11 @@
+html, body{ height:100%!important; margin:0!important; }
+body{
+  display:flex!important; 
+  flex-direction:column!important; 
+}
+
+#footer{
+    margin-top: auto;
+    padding:20px;
+    color:#fff; 
+}
